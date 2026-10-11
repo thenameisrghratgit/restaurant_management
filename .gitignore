@@ -1,0 +1,13 @@
+# Compiled Java class files and build artifacts
+bin/
+*.class
+
+# Log files
+*.log
+
+# Plugin / temporary scratch files
+.freebuff/
+
+# Python cache
+__pycache__/
+*.py[cod]
